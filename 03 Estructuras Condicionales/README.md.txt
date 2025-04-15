@@ -6,4 +6,4 @@ Tecnicatura Universitaria en Programación
 Nombre: Lucas Pucheta
 Comisión: M2025-8
 
-TP N2 - Estructuras Secuenciales
+TP N3 - Estructuras condicionales
